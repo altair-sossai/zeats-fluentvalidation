@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Zeats.FluentValidation</id>
+    <version>1.0.0.0</version>
+    <description>Zeats.FluentValidation</description>
+    <authors>altairsossai@gmail.com</authors>
+    <owners>altairsossai</owners>
+    <projectUrl>https://github.com/altair-sossai/zeats-fluentvalidation</projectUrl>
+    <iconUrl>https://zeatsbalancaautomatica.blob.core.windows.net/icons/nuget.png</iconUrl>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+</package>
