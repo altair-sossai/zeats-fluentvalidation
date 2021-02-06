@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="FluentValidation" Version="9.5.0" />
-    <PackageReference Include="Zeats.Url" Version="1.0.0.5" />
+    <PackageReference Include="Zeats.Url" Version="1.0.0.6" />
   </ItemGroup>
 
 </Project>
