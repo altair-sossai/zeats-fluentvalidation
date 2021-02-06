@@ -9,10 +9,13 @@
     <projectUrl>https://github.com/altair-sossai/zeats-fluentvalidation</projectUrl>
     <iconUrl>https://zeatsbalancaautomatica.blob.core.windows.net/icons/nuget.png</iconUrl>
     <dependencies>
-      <group targetFramework="netcoreapp3.1">
+      <group targetFramework=".NETCoreApp3.1">
         <dependency id="FluentValidation" version="9.5.0" exclude="Build,Analyzers" />
         <dependency id="Zeats.Url" version="1.0.0.8" exclude="Build,Analyzers" />
       </group>
     </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1" />
+    </frameworkReferences>
   </metadata>
 </package>
