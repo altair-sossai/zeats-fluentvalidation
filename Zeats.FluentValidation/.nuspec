@@ -10,7 +10,7 @@
     <iconUrl>https://zeatsbalancaautomatica.blob.core.windows.net/icons/nuget.png</iconUrl>
     <dependencies>
       <group targetFramework=".NETCoreApp3.1">
-        <dependency id="FluentValidation" version="9.5.0" exclude="Build,Analyzers" />
+        <dependency id="FluentValidation" version="10.1.0" exclude="Build,Analyzers" />
         <dependency id="Zeats.Url" version="1.0.0.10" exclude="Build,Analyzers" />
       </group>
     </dependencies>
