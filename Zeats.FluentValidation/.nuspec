@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
-  <metadata>
-    <id>Zeats.FluentValidation</id>
-    <version>1.0.0.0</version>
-    <description>Zeats.FluentValidation</description>
-    <authors>altairsossai@gmail.com</authors>
-    <owners>altairsossai</owners>
-    <projectUrl>https://github.com/altair-sossai/zeats-fluentvalidation</projectUrl>
-    <iconUrl>https://zeatsbalancaautomatica.blob.core.windows.net/icons/nuget.png</iconUrl>
-    <dependencies>
-      <group targetFramework=".NETCoreApp3.1">
-        <dependency id="FluentValidation" version="10.2.2" exclude="Build,Analyzers" />
-        <dependency id="Zeats.Url" version="1.0.0.11" exclude="Build,Analyzers" />
-      </group>
-    </dependencies>
-    <frameworkReferences>
-      <group targetFramework=".NETCoreApp3.1" />
-    </frameworkReferences>
-  </metadata>
+	<metadata>
+		<id>Zeats.FluentValidation</id>
+		<version>1.0.0.0</version>
+		<description>Zeats.FluentValidation</description>
+		<authors>altairsossai@gmail.com</authors>
+		<owners>altairsossai</owners>
+		<projectUrl>https://github.com/altair-sossai/zeats-fluentvalidation</projectUrl>
+		<iconUrl>https://zeatsbalancaautomatica.blob.core.windows.net/icons/nuget.png</iconUrl>
+		<dependencies>
+			<group targetFramework=".NETCoreApp3.1">
+				<dependency id="FluentValidation" version="10.2.2" exclude="Build,Analyzers" />
+				<dependency id="Zeats.Url" version="1.0.0.11" exclude="Build,Analyzers" />
+			</group>
+		</dependencies>
+		<frameworkReferences>
+			<group targetFramework=".NETCoreApp3.1" />
+		</frameworkReferences>
+	</metadata>
 </package>
